@@ -26,7 +26,7 @@ my-app/
 
 @layer components {
   .screen-sm {
-    @apply bg-red-100 text-sm p-4 rounded-md transition-all duration-300;
+    @apply bg-red-100 text-sm p-4 rounded-md transition-all duration-300       /*KUCH BHI LIKH SAKTE YAHA PAR TAILWINDCSS CODE AUR APPLY HO JAYEGA SABHI KE LIYE */ ;
   }
 
   @screen md {
