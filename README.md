@@ -136,7 +136,7 @@ Main feature: `m-{size}`, `mx-{size}`, `my-{size}`, `mt/mr/mb/ml-{size}`
 ```
 
 **📏 Output Description:** Different margin classes ka demonstration with yellow backgrounds. Har div mein alag alag margin direction aur size applied hai. Last mein arbitrary 200px margin example bhi hai.
-<img width="1684" height="424" alt="image" src="https://github.com/user-attachments/assets/889185d9-65df-4de5-8d7a-5fe0636b5e50" />
+<img width="1711" height="410" alt="image" src="https://github.com/user-attachments/assets/792c0ce3-c715-45ba-b104-479727385b19" />
 
 
 ### 🔲 Padding Classes
@@ -154,7 +154,7 @@ Main feature: `p-{size}`, `px-{size}`, `py-{size}`, `pt/pr/pb/pl-{size}`
 ```
 
 **🟩 Output Description:** Lime green backgrounds ke saath padding examples. Har div mein different padding directions aur sizes ka demonstration hai.
-<img width="1711" height="410" alt="image" src="https://github.com/user-attachments/assets/792c0ce3-c715-45ba-b104-479727385b19" />
+<img width="1684" height="424" alt="image" src="https://github.com/user-attachments/assets/889185d9-65df-4de5-8d7a-5fe0636b5e50" />
 
 
 ### ↔️↕️ Space Between Elements
