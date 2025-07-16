@@ -457,8 +457,8 @@ Main feature: `bg-cover`, `bg-center`, `bg-no-repeat`, `bg-gradient-to-r`
 
 ```html
 <div
-  class="h-screen w-full bg-blue-500 bg-cover bg-no-repeat bg-center"
-  style="background-image: url('https://images.unsplash.com/photo-1496181133206-80ce9b88a853');"
+  class="h-screen w-full bg-blue-500 bg-[url(/img/mountains.jpg)] bg-cover bg-no-repeat bg-center"
+  
 ></div>
 
 <div class="h-40 bg-gradient-to-r from-pink-100 to-red-500 m-10 text-center p-40">
