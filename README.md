@@ -55,6 +55,8 @@ Main feature: `text-indigo-{50-900}` classes for different color intensities
 ```
 
 **🎨 Output Description:** Ye section mein "Tailwind" text 10 different shades of indigo color mein display hota hai - 50 se 900 tak. Har shade progressively darker hoti jati hai.
+<img width="1636" height="404" alt="image" src="https://github.com/user-attachments/assets/0042ee9c-6bbc-488a-8347-616101c73b83" />
+
 
 ### 🟥🟩🟦 Background Colors
 Main feature: `bg-{color}-{intensity}` classes for background colors
@@ -67,6 +69,9 @@ Main feature: `bg-{color}-{intensity}` classes for background colors
 ```
 
 **🌟 Output Description:** Teen paragraphs with colorful backgrounds - pink, red, aur blue. White text ke saath perfect contrast banaya gaya hai.
+<img width="1737" height="166" alt="image" src="https://github.com/user-attachments/assets/0aefed32-17b1-4467-940c-bbfd7537c1ed" />
+
+
 
 ### ✨ Text Decoration
 Main feature: `underline`, `line-through`, `overline`, `decoration-{color}`
@@ -81,6 +86,8 @@ Main feature: `underline`, `line-through`, `overline`, `decoration-{color}`
 ```
 
 **🖍️ Output Description:** Text decorations ka showcase - strikethrough, underline, overline, aur colored decorations. Purple colored underlines specially attractive lagti hai.
+<img width="1749" height="222" alt="image" src="https://github.com/user-attachments/assets/3fc8f4d7-b9f7-471c-a21e-b1c76e366c9c" />
+
 
 ### ✅ Accent Colors
 Main feature: `accent-{color}` for form elements
@@ -93,6 +100,7 @@ Main feature: `accent-{color}` for form elements
 ```
 
 **🔲 Output Description:** Teen checkboxes different accent colors ke saath - indigo, yellow, aur red. Ye form elements ko customize karne ke liye perfect hai.
+<img width="647" height="91" alt="image" src="https://github.com/user-attachments/assets/19a6ddf8-fa12-4e77-9736-73469b5294b0" />
 
 ### 🎯 Arbitrary Colors
 Main feature: `bg-[#hexcode]`, `text-[#hexcode]`, `border-[#hexcode]`
@@ -105,6 +113,8 @@ Main feature: `bg-[#hexcode]`, `text-[#hexcode]`, `border-[#hexcode]`
 ```
 
 **🌐 Output Description:** Custom hex colors ka use karte huye - silver background, bright pink text, aur yellow-green border. Ye flexibility deta hai custom colors use karne ke liye.
+  <img width="1726" height="221" alt="image" src="https://github.com/user-attachments/assets/c460438b-a9ee-4ed7-aefd-853399fd6776" />
+
 
 ---
 
@@ -126,6 +136,8 @@ Main feature: `m-{size}`, `mx-{size}`, `my-{size}`, `mt/mr/mb/ml-{size}`
 ```
 
 **📏 Output Description:** Different margin classes ka demonstration with yellow backgrounds. Har div mein alag alag margin direction aur size applied hai. Last mein arbitrary 200px margin example bhi hai.
+<img width="1684" height="424" alt="image" src="https://github.com/user-attachments/assets/889185d9-65df-4de5-8d7a-5fe0636b5e50" />
+
 
 ### 🔲 Padding Classes
 Main feature: `p-{size}`, `px-{size}`, `py-{size}`, `pt/pr/pb/pl-{size}`
@@ -142,6 +154,8 @@ Main feature: `p-{size}`, `px-{size}`, `py-{size}`, `pt/pr/pb/pl-{size}`
 ```
 
 **🟩 Output Description:** Lime green backgrounds ke saath padding examples. Har div mein different padding directions aur sizes ka demonstration hai.
+<img width="1711" height="410" alt="image" src="https://github.com/user-attachments/assets/792c0ce3-c715-45ba-b104-479727385b19" />
+
 
 ### ↔️↕️ Space Between Elements
 Main feature: `space-x-{size}`, `space-y-{size}` with flex containers
@@ -163,6 +177,7 @@ Main feature: `space-x-{size}`, `space-y-{size}` with flex containers
 ```
 
 **🟦 Output Description:** Flex containers mein elements ke beech consistent spacing create karna. Horizontal aur vertical dono directions mein space-between utility classes ka use.
+<img width="1697" height="406" alt="image" src="https://github.com/user-attachments/assets/30e8a451-3cbb-4030-9db3-f76f4d090b64" />
 
 ---
 
@@ -191,6 +206,8 @@ Main feature: `text-{xs|sm|base|lg|xl|2xl|3xl|4xl|5xl|6xl|7xl|8xl|9xl}`
 ```
 
 **🔢 Output Description:** Same text "Tailwind is awesome" ko different font sizes mein display kiya gaya hai - extra small se lekar extra large tak. Progressive size increase clearly visible hai.
+<img width="1662" height="893" alt="image" src="https://github.com/user-attachments/assets/6ec3762a-3038-40a8-b2e9-12d02f4293dd" />
+
 
 ### 🅰️ Font Family
 Main feature: `font-sans`, `font-serif`, `font-mono`
@@ -205,6 +222,8 @@ Main feature: `font-sans`, `font-serif`, `font-mono`
 ```
 
 **🔤 Output Description:** Teen alag font families ka comparison - sans-serif (modern), serif (traditional), aur monospace (coding style). Har font ka apna unique character hai.
+<img width="1645" height="248" alt="image" src="https://github.com/user-attachments/assets/5175a807-85f4-4361-a455-58f2562fad9c" />
+
 
 ### 🏋️ Font Weight
 Main feature: `font-light`, `font-normal`, `font-medium`, `font-semibold`, `font-bold`
@@ -221,6 +240,8 @@ Main feature: `font-light`, `font-normal`, `font-medium`, `font-semibold`, `font
 ```
 
 **💪 Output Description:** Font weight variations ka showcase - light se bold tak. Har level mein text ki thickness gradually increase hoti hai.
+<img width="1627" height="290" alt="image" src="https://github.com/user-attachments/assets/cd36aebc-111f-43b3-8462-892679b004c8" />
+
 
 ### 🏁 Letter Spacing
 Main feature: `tracking-tight`, `tracking-normal`, `tracking-wide`
@@ -235,6 +256,9 @@ Main feature: `tracking-tight`, `tracking-normal`, `tracking-wide`
 ```
 
 **📝 Output Description:** Letter spacing variations - tight (compressed), normal (default), aur wide (expanded). Readability aur aesthetics ke liye important hai.
+<img width="1502" height="222" alt="image" src="https://github.com/user-attachments/assets/8b4abb7e-341b-41bb-9016-38194f2ecd65" />
+
+
 
 ### 🧭 Text Alignment
 Main feature: `text-left`, `text-center`, `text-right`
@@ -249,6 +273,8 @@ Main feature: `text-left`, `text-center`, `text-right`
 ```
 
 **🎯 Output Description:** Text alignment options - left aligned, center aligned, aur right aligned. Layout designing ke liye essential hai.
+<img width="1633" height="233" alt="image" src="https://github.com/user-attachments/assets/5c77d26d-bb79-447d-a5a6-08c796883a9d" />
+
 
 ---
 
@@ -279,6 +305,7 @@ Main feature: `w-{0-96}`, `w-{1/2|1/3|2/3|1/4|3/4|1/5}`, `w-full`, `w-screen`
 ```
 
 **🟩 Output Description:** Width utilities ka comprehensive demonstration. Fixed widths (0-96) aur fractional widths (1/2, 1/3, etc.) ka use. Green bars different widths mein display hote hai.
+
 
 ### ↕️ Height Classes
 Main feature: `h-{24|32|40|48|64|80}`, `h-screen`, `min-h-full`, `max-h-full`
@@ -370,6 +397,7 @@ Main feature: `shadow-{sm|md|lg|xl|2xl}`, `shadow-inner`, `shadow-{color}`
 ```
 
 **🌚 Output Description:** Different shadow intensities ka comparison. Medium se 2x extra large tak, plus inner shadow aur colored shadow examples. Depth aur elevation effects create karta hai.
+  <img width="1699" height="256" alt="image" src="https://github.com/user-attachments/assets/b3a364c2-8fc7-4468-991d-9f4c265b429b" />
 
 ---
 
@@ -404,6 +432,7 @@ Main feature: `rounded`, `rounded-{lg|xl|2xl|3xl|full}`, `rounded-{t|b|l|r}`
 
 **🔵 Output Description:** Border radius variations ka showcase. Normal rounded se full circle tak ka progression. Teal background mein rounded corners clearly visible hai.
 
+
 ---
 
 ## 9. 🖼️ Filters & Image Effects
@@ -421,6 +450,8 @@ Main feature: `contrast-{50|100|150|200}`, `brightness-{50|100|150|200}`, `grays
 ```
 
 **🌗 Output Description:** Image filters ka demonstration. Same image ko different contrast levels mein display kiya gaya hai. Visual difference clearly dekha ja sakta hai.
+<img width="1395" height="834" alt="image" src="https://github.com/user-attachments/assets/dc6fc676-2049-4b9e-83f1-ea64671e29e3" />
+
 
 ### 🎨 Advanced Filters
 Main feature: `hue-rotate-{15|60|90|180}`, `saturate-{50|100|150|200}`, `blur-{lg|2xl}`
@@ -434,6 +465,9 @@ Main feature: `hue-rotate-{15|60|90|180}`, `saturate-{50|100|150|200}`, `blur-{l
 ```
 
 **🖌️ Output Description:** Advanced image effects ka showcase. Hue rotation, saturation adjustment, aur blur effects. Creative image manipulation ke liye useful hai.
+
+<img width="1631" height="829" alt="image" src="https://github.com/user-attachments/assets/6f400fa1-ebb9-4128-8180-10e661ba178b" />
+<img width="1487" height="850" alt="image" src="https://github.com/user-attachments/assets/589a435f-aa82-4c46-ae05-0a5bdba84c5f" />
 
 ---
 
@@ -476,6 +510,15 @@ Main feature: `flex`, `flex-col`, `justify-{start|end|center|between|around}`
 ```
 
 **🧃 Output Description:** Flexbox layout ka demonstration. Horizontal arrangement mein items, justify-content ke saath center alignment. Teal colored boxes ka clean layout.
+**flex**
+<img width="1427" height="194" alt="image" src="https://github.com/user-attachments/assets/9be71530-fa22-4779-801f-c6f66af85ff3" />
+
+**flex-col**
+<img width="1621" height="707" alt="image" src="https://github.com/user-attachments/assets/547f3fff-045b-4ce9-ab22-c5eddddca8a1" />
+
+**justify-{start|end|center|between|around}**
+<img width="1604" height="740" alt="image" src="https://github.com/user-attachments/assets/cdd2f552-50c4-4fcf-89f2-8f5d3fd67e2a" />
+
 
 ### 📈 Flex Grow & Shrink
 Main feature: `flex-none`, `flex-initial`, `flex-auto`, `flex-1`
@@ -492,6 +535,7 @@ Main feature: `flex-none`, `flex-initial`, `flex-auto`, `flex-1`
 ```
 
 **🚦 Output Description:** Flex properties ka behavior showcase. Different flex values ke saath items ka growth aur shrinkage behavior. Space distribution ka practical example.
+<img width="1690" height="159" alt="image" src="https://github.com/user-attachments/assets/e4235e37-63e3-4e08-87a6-a17601ac9784" />
 
 ---
 
@@ -515,6 +559,9 @@ Main feature: `grid`, `grid-cols-{1-12}`, `grid-rows-{1-6}`, `gap-{size}`
 ```
 
 **🟩 Output Description:** CSS Grid ka basic structure. 3 columns aur 4 rows ka layout with consistent gap. Green colored grid items ka organized arrangement.
+<img width="1706" height="493" alt="image" src="https://github.com/user-attachments/assets/d3f768ac-7438-4c1e-ab2f-61821e677255" />
+
+
 
 ### 🟪 Grid Span
 Main feature: `col-span-{1-12}`, `row-span-{1-6}`
@@ -529,6 +576,7 @@ Main feature: `col-span-{1-12}`, `row-span-{1-6}`
 ```
 
 **🟦 Output Description:** Grid span utilities ka demonstration. Items jo multiple columns aur rows ko span karte hai. Complex layouts create karne ke liye useful hai.
+<img width="1727" height="851" alt="image" src="https://github.com/user-attachments/assets/d310f2be-39ce-495c-87e4-ffded112a047" />
 
 ---
 
@@ -650,3 +698,17 @@ Main feature: `animate-{spin|ping|pulse|bounce}`
 **Happy Coding! 🥳👨‍💻**
 
 *Tailwind CSS ke saath modern, responsive, aur beautiful UIs banayiye!*
+
+
+---
+
+## 🙋‍♂️ Contact & Credits
+
+**Made with ❤️ by [Nikhil Kumar](https://github.com/nikhilkr16)**
+
+- GitHub: [nikhilkr16](https://github.com/nikhilkr16)
+- Email: btech10883.22@bitmesra.ac.in
+
+Feel free to reach out for suggestions, feedback, or collaboration!
+
+---
