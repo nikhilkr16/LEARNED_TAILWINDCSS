@@ -703,33 +703,6 @@ Main feature: `animate-{spin|ping|pulse|bounce}`
 
 ---
 
-## 🚀 How to Use
-
-1. **Setup**: Make sure you have Tailwind CSS installed in your project 🛠️
-2. **Copy Code**: Copy any section's HTML code into your project 📋
-3. **Customize**: Modify classes according to your needs ✏️
-4. **Responsive**: Add responsive prefixes like `sm:`, `md:`, `lg:` as needed 📱
-
----
-
-## 📝 Notes
-
-- Har section mein main Tailwind classes highlight kiye gaye hai 🎯
-- Practical examples ke saath output descriptions provided hai 💡
-- Hinglish tone mein explanations for better understanding 👍
-- Progressive complexity - basic se advanced tak ka journey 📈
-
----
-
-## 🎯 Perfect For
-
-- 🦸‍♂️ Beginners learning Tailwind CSS
-- ⚡ Quick reference guide
-- 💻 Project implementation
-- 🧠 Understanding utility-first approach
-
----
-
 ## 🧩 Responsive Baane ke Taarike (कैसे बनाएँ Responsive UI?)
 
 > **Tailwind ki responsive power unlock karo!**  
@@ -778,6 +751,34 @@ Main feature: `animate-{spin|ping|pulse|bounce}`
 | **Animation**       | `animate-spin`, `animate-bounce` | Built-in animation                                    |
 | **Responsive**      | `sm:`, `md:`, `lg:`              | Responsive design                                     |
 | **Arbitrary Value** | `bg-[#FF00FF]`, `m-[10px]`       | Custom value use karo                                 |
+
+---
+
+
+## 🚀 How to Use
+
+1. **Setup**: Make sure you have Tailwind CSS installed in your project 🛠️
+2. **Copy Code**: Copy any section's HTML code into your project 📋
+3. **Customize**: Modify classes according to your needs ✏️
+4. **Responsive**: Add responsive prefixes like `sm:`, `md:`, `lg:` as needed 📱
+
+---
+
+## 📝 Notes
+
+- Har section mein main Tailwind classes highlight kiye gaye hai 🎯
+- Practical examples ke saath output descriptions provided hai 💡
+- Hinglish tone mein explanations for better understanding 👍
+- Progressive complexity - basic se advanced tak ka journey 📈
+
+---
+
+## 🎯 Perfect For
+
+- 🦸‍♂️ Beginners learning Tailwind CSS
+- ⚡ Quick reference guide
+- 💻 Project implementation
+- 🧠 Understanding utility-first approach
 
 ---
 
