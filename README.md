@@ -276,6 +276,93 @@ Main feature: `text-left`, `text-center`, `text-right`
 <img width="1633" height="233" alt="image" src="https://github.com/user-attachments/assets/5c77d26d-bb79-447d-a5a6-08c796883a9d" />
 
 
+### Text Decoration
+
+**Code:**
+```html
+<!-- https://tailwindcss.com/docs/text-decoration-thickness -->
+<div class="container bg-emerald-400 p-10 mb-10">
+  <p class="underline decoration-4">Tailwind is awesome</p>
+  <p class="line-through">Tailwind is awesome</p>
+  <p class="overline">Tailwind is awesome</p>
+  <p class="no-underline">Tailwind is awesome</p>
+</div>
+```
+
+**Main TailwindCSS Classes:**  
+`underline`, `decoration-4`, `line-through`, `overline`, `no-underline`
+
+**Output Description (Hinglish):**  
+Is section mein text ke upar, niche aur beech line lagane ke liye decoration classes dikhayi gayi hain. Pehla text underline ke saath thick line show karega, dusra strike-through (beech line), teesra overline (upar line), aur chautha bilkul plain bina kisi decoration ke dikhega.
+<img width="1307" height="233" alt="image" src="https://github.com/user-attachments/assets/69b01b5c-1b8b-42ff-9914-96e941c6a384" />
+
+---
+
+### Decoration Style
+
+**Code:**
+```html
+<div class="container bg-cyan-400 p-10 mb-10">
+  <p class="underline decoration-solid">Tailwind is awesome</p>
+  <p class="underline decoration-double">Tailwind is awesome</p>
+  <p class="underline decoration-dotted">Tailwind is awesome</p>
+  <p class="underline decoration-dashed">Tailwind is awesome</p>
+  <p class="underline decoration-wavy">Tailwind is awesome</p>
+</div>
+```
+
+**Main TailwindCSS Classes:**  
+`underline`, `decoration-solid`, `decoration-double`, `decoration-dotted`, `decoration-dashed`, `decoration-wavy`
+
+**Output Description (Hinglish):**  
+Yahan underline ki style badal sakte ho – pehli solid hai (normal line), dusri double (do lines), teesri dotted (dot wali line), chauthi dashed (choti choti dash wali line), aur paanchvi wavy (lehrati hui line). Har ek style text ke niche alag look dega, bilkul mast lagta hai!
+<img width="1206" height="297" alt="image" src="https://github.com/user-attachments/assets/06897512-a732-4d1e-b9a4-2a6a515a0a8e" />
+
+---
+
+### Decoration Offset
+
+**Code:**
+```html
+<div class="container bg-indigo-400 p-10 mb-10">
+  <p class="underline underline-offset-1">Tailwind is awesome</p>
+  <p class="underline underline-offset-2">Tailwind is awesome</p>
+  <p class="underline underline-offset-4">Tailwind is awesome</p>
+  <p class="underline underline-offset-8">Tailwind is awesome</p>
+</div>
+```
+
+**Main TailwindCSS Classes:**  
+`underline`, `underline-offset-1`, `underline-offset-2`, `underline-offset-4`, `underline-offset-8`
+
+**Output Description (Hinglish):**  
+Underline ki position set karne ke liye offset classes use hoti hain. Jaise jaise offset badhate jaoge, underline text se aur door chali jaayegi. 1 pe bilkul paas, 8 pe kaafi distance pe line show hogi. Stylish underline chahiye toh offset ka bindaas use karo!
+<img width="1152" height="244" alt="image" src="https://github.com/user-attachments/assets/d9e0386e-cd2b-42f0-b128-98b5767e804b" />
+
+---
+
+### Text Transform
+
+**Code:**
+```html
+<!-- https://tailwindcss.com/docs/text-transform -->
+<div class="container bg-pink-400 p-10 mb-10">
+  <p class="normal-case">Tailwind is awesome</p>
+  <p class="uppercase">Tailwind is awesome</p>
+  <p class="lowercase">Tailwind is awesome</p>
+  <p class="capitalize">Tailwind is awesome</p>
+</div>
+```
+
+**Main TailwindCSS Classes:**  
+`normal-case`, `uppercase`, `lowercase`, `capitalize`
+
+**Output Description (Hinglish):**  
+Text ka style change karna ho toh text transform classes use karo – normal-case mein text jaise type kiya waise hi aayega, uppercase sab letters capital ho jayenge, lowercase mein sab chote, aur capitalize mein har word ka pehla letter bada ho jayega. Presentation ekdum pro lagta hai!
+<img width="1101" height="239" alt="image" src="https://github.com/user-attachments/assets/df53089f-9f24-498a-9def-8f557ea1840e" />
+
+
+
 ---
 
 ## 4. 📐 Width & Height
