@@ -276,6 +276,7 @@ Main feature: `text-left`, `text-center`, `text-right`
 <img width="1633" height="233" alt="image" src="https://github.com/user-attachments/assets/5c77d26d-bb79-447d-a5a6-08c796883a9d" />
 
 
+
 ### Text Decoration
 
 **Code:**
@@ -296,7 +297,7 @@ Main feature: `text-left`, `text-center`, `text-right`
 Is section mein text ke upar, niche aur beech line lagane ke liye decoration classes dikhayi gayi hain. Pehla text underline ke saath thick line show karega, dusra strike-through (beech line), teesra overline (upar line), aur chautha bilkul plain bina kisi decoration ke dikhega.
 <img width="1307" height="233" alt="image" src="https://github.com/user-attachments/assets/69b01b5c-1b8b-42ff-9914-96e941c6a384" />
 
----
+
 
 ### Decoration Style
 
@@ -318,7 +319,6 @@ Is section mein text ke upar, niche aur beech line lagane ke liye decoration cla
 Yahan underline ki style badal sakte ho – pehli solid hai (normal line), dusri double (do lines), teesri dotted (dot wali line), chauthi dashed (choti choti dash wali line), aur paanchvi wavy (lehrati hui line). Har ek style text ke niche alag look dega, bilkul mast lagta hai!
 <img width="1206" height="297" alt="image" src="https://github.com/user-attachments/assets/06897512-a732-4d1e-b9a4-2a6a515a0a8e" />
 
----
 
 ### Decoration Offset
 
@@ -339,7 +339,6 @@ Yahan underline ki style badal sakte ho – pehli solid hai (normal line), dusri
 Underline ki position set karne ke liye offset classes use hoti hain. Jaise jaise offset badhate jaoge, underline text se aur door chali jaayegi. 1 pe bilkul paas, 8 pe kaafi distance pe line show hogi. Stylish underline chahiye toh offset ka bindaas use karo!
 <img width="1152" height="244" alt="image" src="https://github.com/user-attachments/assets/d9e0386e-cd2b-42f0-b128-98b5767e804b" />
 
----
 
 ### Text Transform
 
